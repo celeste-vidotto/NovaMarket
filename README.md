@@ -4,9 +4,11 @@ Trabajo de **QA manual** realizado en una simulación laboral sobre **NovaMarket
 
 Este repositorio reúne los dos entregables de mi trabajo como QA:
 
-| Archivos |
-| 📊 `NovaMarket_TrazabilidadyCasosdePrueba_QA.xlsx` | Casos de prueba, trazabilidad y reportes de bugs |
-| 📄 `InformeQA_NovaMarket.pdf` | Informe final con el estado del proyecto, pensado para público no técnico |
+|Archivos|
+
+📊 `NovaMarket_TrazabilidadyCasosdePrueba_QA.xlsx` | Casos de prueba, trazabilidad y reportes de bugs |
+
+📄 `InformeQA_NovaMarket.pdf` | Informe final con el estado del proyecto, pensado para público no técnico |
 
 ---
 
@@ -84,6 +86,6 @@ Un informe visual y didáctico, escrito en lenguaje simple para que lo entienda 
 ## 👩‍💻 Autora
 
 **Celeste Vidotto** · QA Tester
-🔗 LinkedIn: _[agregar enlace a tu perfil]_
+🔗 LinkedIn: https://www.linkedin.com/in/celeste-vidotto-1740aa249/ 
 
 > Proyecto realizado con fines de aprendizaje, en el marco de una simulación laboral.
